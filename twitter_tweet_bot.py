@@ -1,8 +1,8 @@
 from selenium import webdriver
 from time import sleep
 
-USERNAME = "forpython5"
-PASSWORD = "Litmus10."
+USERNAME = "Name"
+PASSWORD = "Password"
 
 WEB_DRIVER_PATH = 'C:\Develop\chromedriver.exe'
 TWITTER_PAGE_LINK = "https://twitter.com/login"
