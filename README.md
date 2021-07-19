@@ -1,1 +1,1 @@
-# twitter_tweet_bot
+# twitter_tweet_automation
